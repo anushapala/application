@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	font-family:comic sans MS; 
+	color:#9900cc;
+	text-align:center;
+}
+
+body
+{
+	background-color:#ffcc00;
+}
+div
+{
+	text-align: center;
+	
+}
+a
+{
+	text-decoration:none;
+}

@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+body
+{
+	background-color:#ffcc00;
+}
+h1
+{
+	font-family:comic sans MS; 
+	color:#9900cc;
+	text-align:center;
+}
+
+table
+{
+	border-collapse:collapse;
+	width: 210px;
+	margin: auto;
+}
+table, tr,td
+{
+	border: 1px solid green;
+}
+img
+{
+	height: 150px;
+	width: 150px;
+}
+td
+{
+		background-color:#ccff99;
+		padding:5%;
+}

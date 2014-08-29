@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	font-family:comic sans MS; 
+	color:#9900cc;
+	text-align:center;
+}
+
+body
+{
+	background-color:#ffcc00;
+}
+fieldset
+{
+	width: 270px; 
+	height: 250px;
+	position: relative;
+	top: 100px; 
+	left: 39%;
+}
+
+#submit
+{
+	position: relative; 
+	top: 14px; 
+	left: 13%;
+}
+#reset
+{
+	position: relative; 
+	top: 14px; 
+	left: 17%;
+}
+p
+{
+	position: relative;
+	top: 95px;
+	left: 44%;
+}
+a
+{
+	text-decoration:none;
+}

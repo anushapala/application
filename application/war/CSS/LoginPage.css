@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+h1
+{
+	font-family:comic sans MS; 
+	color:#9900cc;
+	text-align:center;
+}
+body
+{
+	background-color:#ffcc00;
+}
+fieldset
+{
+	width: 270px; 
+	height: 150px;
+	position: relative;
+	top: 100px; 
+	left: 39%;
+}
+
+#login
+{
+	position: relative; 
+	top: 25px; 
+	left: 45%;
+}
+p
+{
+	position: relative;
+	top: 100px;
+	left: 42%;
+}
+a
+{
+	text-decoration:none;
+}
